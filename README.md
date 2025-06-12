@@ -43,7 +43,8 @@ Finally, the VCP dataset root will be sym-linked to the folder ./data/ automatic
 
 ## 1.4 Test dataset
 
-We use the JCT-VC testing dataset in [JCT-VC](https://ieeexplore.ieee.org/document/6317156). Download raw and compressed videos [BaiduPan](https://pan.baidu.com/s/1IFjZF2MvCyVOmgTBHgl2IA),Code [qix5]. Download pre-trained models [BaiduPan](https://pan.baidu.com/s/1IfseF5FCApEpGwLcV3UBng),Code [TGAF]
+We use the JCT-VC testing dataset in [JCT-VC](https://ieeexplore.ieee.org/document/6317156). Download raw and compressed videos [BaiduPan](https://pan.baidu.com/s/1IFjZF2MvCyVOmgTBHgl2IA),Code [qix5]. [BaiduPan](https://pan.baidu.com/s/1uUL2STsuS6kXVx6a_Z8m0A),Code [MFQE]
+Download pre-trained models [BaiduPan](https://pan.baidu.com/s/1IfseF5FCApEpGwLcV3UBng),Code [TGAF]
 
 # Train
 ```python
